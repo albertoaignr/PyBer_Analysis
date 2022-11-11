@@ -22,8 +22,10 @@ In this plot similarly evident the usage of the app in Urban cities and that the
 
 # Summary
 
-CHANGE Written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+Final words can be said in regards of this findings, considerations can be made in the following aspects:
 
-Overview of the analysis: Explain the purpose of the new analysis.
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+- Address disparity of drivers/rides, maybe it can be that people are doing it as a part time and some people making a career out of it. Evaluating a better approach for the app depending on the city, giving more focus to the Urban type as is the one with greater demand.
+- As Rural ciies are the ones are the bottom of the chart, indicating that the revenue is lower, it can be designed a strategy with users to increase the usage of the app, maybe with partnerships and discounts that have direct impact in the average fare.
+- Suburban cities follow a kind of stable trend (as offer-demand, represented in Drivers-Rides summarized data), where a survey within the users/drivers might help identify this trend and even serve as an example on the way of addressing disparities. 
+
+
